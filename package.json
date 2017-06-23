@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "babel-jest-scaffolding",
   "version": "0.0.1",
   "description": "skeletong ES6 javascript library which can be debugged in VSCODE",
   "main": "index.js",
