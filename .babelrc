@@ -1,0 +1,29 @@
+{
+    //"ignore" : "*.test.js",
+
+    "presets": [
+        "es2015",
+        "es2016",
+        "stage-0"
+    ],
+    "sourceMaps": "inline",
+    "retainLines": "true",
+    "plugins": [
+        "transform-flow-strip-types",
+        [
+            "module-resolver",
+            {
+                "root": [
+                    "./lib"
+                ],
+                "alias": {
+                    "src": "./src",
+                    "lib":"./lib",
+                    "@canmap/lib": "./src"
+
+
+                }
+            }
+        ]
+    ]
+}

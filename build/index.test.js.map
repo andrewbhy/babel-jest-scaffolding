@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.test.js"],"names":["it","test"],"mappings":"aAAA,gC;;AAEAA,GAAG,gBAAH,EAAqB,YAAI;;AAErB,oBAAMC,IAAN;;;AAGH,CALD","file":"index.test.js","sourcesContent":["import index from './index'\r\n\r\nit(\"tests nothing!\", ()=>{\r\n\r\n    index.test()\r\n    \r\n\r\n})"]}
