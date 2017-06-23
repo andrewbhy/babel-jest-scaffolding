@@ -1,6 +1,6 @@
 
 
-import DummyClass from "./dummyClass";
+import DummyClass from "dummyClass";
 
 
 it("printMessage returns correct message", ()=>{

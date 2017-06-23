@@ -14,13 +14,10 @@
         [
             "module-resolver",
             {
-               
+                
                 "alias": {
                     "src": "./src",
-                    "lib":"./lib",
-                    "@canmap/lib": "./src"
-
-
+                    "lib":"./lib"
                 }
             }
         ]
