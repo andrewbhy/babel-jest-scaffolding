@@ -8,7 +8,7 @@
         "flow"
     ],
     "sourceMaps": "inline",
-    "retainLines": "true",
+    "retainLines": true,
     "plugins": [
         "transform-flow-strip-types",
         [
